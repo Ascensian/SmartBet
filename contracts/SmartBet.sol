@@ -123,8 +123,4 @@ contract SmartBet {
             }
     }
 
-
-
-
-
 }
